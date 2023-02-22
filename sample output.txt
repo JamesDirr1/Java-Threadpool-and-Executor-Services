@@ -1,0 +1,765 @@
+
+------------PART A------------
+Thread-0 is sleeping for 172 milliseconds.
+Thread-3 is sleeping for 703 milliseconds.
+Thread-8 is sleeping for 340 milliseconds.
+Thread-4 is sleeping for 152 milliseconds.
+Thread-6 is sleeping for 313 milliseconds.
+Thread-1 is sleeping for 354 milliseconds.
+Thread-2 is sleeping for 71 milliseconds.
+Thread-7 is sleeping for 29 milliseconds.
+Thread-5 is sleeping for 913 milliseconds.
+Thread-9 is sleeping for 806 milliseconds.
+Thread-10 is sleeping for 772 milliseconds.
+Thread-11 is sleeping for 506 milliseconds.
+Thread-12 is sleeping for 746 milliseconds.
+Thread-13 is sleeping for 554 milliseconds.
+Thread-14 is sleeping for 68 milliseconds.
+Thread-15 is sleeping for 483 milliseconds.
+Thread-16 is sleeping for 512 milliseconds.
+Thread-17 is sleeping for 2 milliseconds.
+Thread-18 is sleeping for 163 milliseconds.
+Thread-19 is sleeping for 354 milliseconds.
+Thread-20 is sleeping for 626 milliseconds.
+Thread-21 is sleeping for 785 milliseconds.
+Thread-22 is sleeping for 487 milliseconds.
+Thread-23 is sleeping for 774 milliseconds.
+Thread-24 is sleeping for 745 milliseconds.
+Thread-25 is sleeping for 908 milliseconds.
+Thread-26 is sleeping for 958 milliseconds.
+Thread-27 is sleeping for 992 milliseconds.
+Thread-28 is sleeping for 886 milliseconds.
+Thread-29 is sleeping for 726 milliseconds.
+Thread-30 is sleeping for 741 milliseconds.
+Thread-31 is sleeping for 385 milliseconds.
+Thread-32 is sleeping for 22 milliseconds.
+Thread-33 is sleeping for 543 milliseconds.
+Thread-34 is sleeping for 625 milliseconds.
+Thread-35 is sleeping for 108 milliseconds.
+Thread-36 is sleeping for 987 milliseconds.
+Thread-37 is sleeping for 156 milliseconds.
+Thread-38 is sleeping for 38 milliseconds.
+Thread-39 is sleeping for 746 milliseconds.
+Thread-40 is sleeping for 577 milliseconds.
+Thread-41 is sleeping for 325 milliseconds.
+Thread-42 is sleeping for 790 milliseconds.
+Thread-43 is sleeping for 844 milliseconds.
+Thread-44 is sleeping for 579 milliseconds.
+Thread-45 is sleeping for 843 milliseconds.
+Thread-46 is sleeping for 303 milliseconds.
+Thread-47 is sleeping for 585 milliseconds.
+Thread-48 is sleeping for 153 milliseconds.
+Thread-49 is sleeping for 428 milliseconds.
+Thread-50 is sleeping for 709 milliseconds.
+Thread-51 is sleeping for 149 milliseconds.
+Thread-52 is sleeping for 331 milliseconds.
+Thread-53 is sleeping for 508 milliseconds.
+Thread-54 is sleeping for 812 milliseconds.
+Thread-55 is sleeping for 83 milliseconds.
+Thread-56 is sleeping for 771 milliseconds.
+Thread-57 is sleeping for 499 milliseconds.
+Thread-58 is sleeping for 889 milliseconds.
+Thread-59 is sleeping for 113 milliseconds.
+------------PART B------------
+Thread-27 calculating square of 21
+Thread-8 calculating square of 48
+Thread-45 calculating square of 82
+Thread-33 calculating square of 23
+Thread-103 calculating square of 17
+Thread-74 calculating square of 73
+Thread-106 calculating square of 46
+Thread-115 calculating square of 68
+Thread-63 calculating square of 35
+Thread-88 calculating square of 58
+Thread-86 calculating square of 1
+Thread-41 calculating square of 39
+Thread-64 calculating square of 26
+Thread-82 calculating square of 3
+Thread-71 calculating square of 100
+Thread-49 calculating square of 86
+Thread-109 calculating square of 12
+Thread-56 calculating square of 52
+Thread-93 calculating square of 99
+Thread-110 calculating square of 54
+Thread-75 calculating square of 98
+Thread-72 calculating square of 88
+Thread-69 calculating square of 52
+Thread-54 calculating square of 68
+Thread-55 calculating square of 85
+Thread-116 calculating square of 72
+Thread-57 calculating square of 66
+Thread-59 calculating square of 85
+Thread-94 calculating square of 23
+Thread-98 calculating square of 62
+Thread-108 calculating square of 99
+Thread-52 calculating square of 50
+Thread-67 calculating square of 45
+Thread-119 calculating square of 57
+Thread-68 calculating square of 49
+Thread-61 calculating square of 62
+Thread-114 calculating square of 10
+Thread-121 calculating square of 16
+Thread-17 calculating square of 68
+Thread-26 calculating square of 8
+Thread-12 calculating square of 4
+Thread-35 calculating square of 93
+Thread-36 calculating square of 86
+Thread-2 calculating square of 39
+Thread-44 calculating square of 48
+Thread-47 calculating square of 56
+Thread-28 calculating square of 40
+Thread-14 calculating square of 15
+Thread-13 calculating square of 63
+Thread-39 calculating square of 53
+Thread-16 calculating square of 62
+Thread-21 calculating square of 82
+Thread-38 calculating square of 50
+Thread-42 calculating square of 2
+Thread-7 calculating square of 7
+Thread-19 calculating square of 86
+Thread-0 calculating square of 94
+Thread-58 calculating square of 76
+Thread-20 calculating square of 44
+Thread-11 calculating square of 93
+Thread-25 calculating square of 80
+Thread-34 calculating square of 13
+Thread-15 calculating square of 16
+Thread-9 calculating square of 80
+Thread-18 calculating square of 69
+Thread-3 calculating square of 13
+Thread-46 calculating square of 28
+Thread-43 calculating square of 100
+Thread-4 calculating square of 37
+Thread-29 calculating square of 13
+Thread-22 calculating square of 42
+Thread-23 calculating square of 55
+Thread-40 calculating square of 69
+Thread-30 calculating square of 73
+Thread-32 calculating square of 16
+Thread-107 calculating square of 97
+Result from Thread-0: 8836
+Thread-66 calculating square of 24
+Thread-89 calculating square of 42
+Thread-77 calculating square of 88
+Thread-95 calculating square of 22
+Thread-92 calculating square of 86
+Thread-83 calculating square of 74
+Thread-101 calculating square of 50
+Thread-113 calculating square of 3
+Thread-1 calculating square of 93
+Thread-6 calculating square of 10
+Result from Thread-1: 8649
+Result from Thread-2: 1521
+Result from Thread-3: 169
+Result from Thread-4: 1369
+Thread-37 calculating square of 71
+Thread-24 calculating square of 84
+Thread-31 calculating square of 47
+Thread-10 calculating square of 64
+Thread-104 calculating square of 95
+Thread-65 calculating square of 23
+Thread-84 calculating square of 71
+Thread-97 calculating square of 54
+Thread-112 calculating square of 46
+Thread-5 calculating square of 16
+Result from Thread-5: 256
+Result from Thread-6: 100
+Result from Thread-7: 49
+Result from Thread-8: 2304
+Result from Thread-9: 6400
+Result from Thread-10: 4096
+Result from Thread-11: 8649
+Result from Thread-12: 16
+Result from Thread-13: 3969
+Result from Thread-14: 225
+Result from Thread-15: 256
+Result from Thread-16: 3844
+Result from Thread-17: 4624
+Result from Thread-18: 4761
+Result from Thread-19: 7396
+Result from Thread-20: 1936
+Result from Thread-21: 6724
+Result from Thread-22: 1764
+Result from Thread-23: 3025
+Result from Thread-24: 7056
+Result from Thread-25: 6400
+Result from Thread-26: 64
+Result from Thread-27: 441
+Result from Thread-28: 1600
+Result from Thread-29: 169
+Result from Thread-30: 5329
+Result from Thread-31: 2209
+Result from Thread-32: 256
+Result from Thread-33: 529
+Result from Thread-34: 169
+Result from Thread-35: 8649
+Result from Thread-36: 7396
+Result from Thread-37: 5041
+Result from Thread-38: 2500
+Result from Thread-39: 2809
+Result from Thread-40: 4761
+Result from Thread-41: 1521
+Result from Thread-42: 4
+Result from Thread-43: 10000
+Result from Thread-44: 2304
+Result from Thread-45: 6724
+Result from Thread-46: 784
+Result from Thread-47: 3136
+Thread-53 calculating square of 83
+Thread-96 calculating square of 90
+Thread-78 calculating square of 14
+Thread-117 calculating square of 15
+Thread-99 calculating square of 9
+Thread-90 calculating square of 23
+Thread-48 calculating square of 33
+Result from Thread-48: 1089
+Result from Thread-49: 7396
+Thread-102 calculating square of 76
+Thread-70 calculating square of 27
+Thread-60 calculating square of 12
+Thread-76 calculating square of 36
+Thread-81 calculating square of 29
+Thread-62 calculating square of 83
+Thread-111 calculating square of 73
+Thread-122 calculating square of 47
+Thread-79 calculating square of 50
+Thread-126 calculating square of 75
+Thread-80 calculating square of 39
+Thread-73 calculating square of 90
+Thread-128 calculating square of 25
+Thread-87 calculating square of 27
+Thread-50 calculating square of 31
+Result from Thread-50: 961
+Thread-132 calculating square of 36
+Thread-100 calculating square of 92
+Thread-85 calculating square of 16
+Thread-120 calculating square of 56
+Thread-91 calculating square of 33
+Thread-175 calculating square of 36
+Thread-105 calculating square of 90
+Thread-142 calculating square of 97
+Thread-178 calculating square of 10
+Thread-133 calculating square of 92
+Thread-118 calculating square of 62
+Thread-171 calculating square of 85
+Thread-51 calculating square of 13
+Thread-136 calculating square of 80
+Result from Thread-51: 169
+Result from Thread-52: 2500
+Result from Thread-53: 6889
+Result from Thread-54: 4624
+Thread-148 calculating square of 82
+Thread-153 calculating square of 59
+Result from Thread-55: 7225
+Result from Thread-56: 2704
+Result from Thread-57: 4356
+Result from Thread-58: 5776
+Result from Thread-59: 7225
+Result from Thread-60: 144
+Result from Thread-61: 3844
+Result from Thread-62: 6889
+Result from Thread-63: 1225
+Result from Thread-64: 676
+Result from Thread-65: 529
+Result from Thread-66: 576
+Result from Thread-67: 2025
+Result from Thread-68: 2401
+Result from Thread-69: 2704
+Result from Thread-70: 729
+Result from Thread-71: 10000
+Result from Thread-72: 7744
+Result from Thread-73: 8100
+Result from Thread-74: 5329
+Result from Thread-75: 9604
+Result from Thread-76: 1296
+Result from Thread-77: 7744
+Result from Thread-78: 196
+Result from Thread-79: 2500
+Thread-156 calculating square of 22
+Thread-150 calculating square of 43
+Result from Thread-80: 1521
+Result from Thread-81: 841
+Result from Thread-82: 9
+Result from Thread-83: 5476
+Result from Thread-84: 5041
+Result from Thread-85: 256
+Result from Thread-86: 1
+Result from Thread-87: 729
+Result from Thread-88: 3364
+Result from Thread-89: 1764
+Result from Thread-90: 529
+Result from Thread-91: 1089
+Result from Thread-92: 7396
+Result from Thread-93: 9801
+Result from Thread-94: 529
+Result from Thread-95: 484
+Result from Thread-96: 8100
+Result from Thread-97: 2916
+Result from Thread-98: 3844
+Result from Thread-99: 81
+Result from Thread-100: 8464
+Result from Thread-101: 2500
+Result from Thread-102: 5776
+Result from Thread-103: 289
+Result from Thread-104: 9025
+Result from Thread-105: 8100
+Result from Thread-106: 2116
+Result from Thread-107: 9409
+Result from Thread-108: 9801
+Result from Thread-109: 144
+Result from Thread-110: 2916
+Result from Thread-111: 5329
+Result from Thread-112: 2116
+Thread-144 calculating square of 90
+Thread-173 calculating square of 67
+Result from Thread-113: 9
+Result from Thread-114: 100
+Result from Thread-115: 4624
+Result from Thread-116: 5184
+Result from Thread-117: 225
+Result from Thread-118: 3844
+Result from Thread-119: 3249
+Result from Thread-120: 3136
+Result from Thread-121: 256
+Result from Thread-122: 2209
+Thread-135 calculating square of 42
+Thread-167 calculating square of 53
+Thread-124 calculating square of 74
+Thread-165 calculating square of 36
+Thread-160 calculating square of 84
+Thread-152 calculating square of 84
+Thread-174 calculating square of 95
+Thread-123 calculating square of 16
+Result from Thread-123: 256
+Result from Thread-124: 5476
+Thread-141 calculating square of 76
+Thread-151 calculating square of 85
+Thread-177 calculating square of 70
+Thread-146 calculating square of 7
+Thread-129 calculating square of 48
+Thread-157 calculating square of 100
+Thread-139 calculating square of 100
+Thread-147 calculating square of 58
+Thread-166 calculating square of 11
+Thread-158 calculating square of 12
+Thread-131 calculating square of 55
+Thread-127 calculating square of 17
+Thread-140 calculating square of 77
+Thread-176 calculating square of 59
+Thread-161 calculating square of 86
+Thread-169 calculating square of 53
+Thread-164 calculating square of 70
+Thread-232 calculating square of 50
+Thread-145 calculating square of 73
+Thread-149 calculating square of 20
+Thread-261 calculating square of 60
+Thread-327 calculating square of 61
+Thread-314 calculating square of 59
+Thread-302 calculating square of 47
+Thread-222 calculating square of 64
+Thread-241 calculating square of 49
+Thread-159 calculating square of 97
+Thread-288 calculating square of 95
+Thread-253 calculating square of 60
+Thread-200 calculating square of 68
+Thread-154 calculating square of 16
+Thread-134 calculating square of 18
+Thread-273 calculating square of 94
+Thread-329 calculating square of 91
+Thread-233 calculating square of 83
+Thread-219 calculating square of 34
+Thread-284 calculating square of 25
+Thread-210 calculating square of 84
+Thread-130 calculating square of 75
+Thread-193 calculating square of 10
+Thread-290 calculating square of 22
+Thread-137 calculating square of 83
+Thread-245 calculating square of 52
+Thread-198 calculating square of 75
+Thread-315 calculating square of 96
+Thread-125 calculating square of 28
+Result from Thread-125: 784
+Result from Thread-126: 5625
+Result from Thread-127: 289
+Result from Thread-128: 625
+Result from Thread-129: 2304
+Result from Thread-130: 5625
+Result from Thread-131: 3025
+Result from Thread-132: 1296
+Result from Thread-133: 8464
+Result from Thread-134: 324
+Result from Thread-135: 1764
+Result from Thread-136: 6400
+Result from Thread-137: 6889
+Thread-228 calculating square of 63
+Thread-265 calculating square of 22
+Thread-212 calculating square of 97
+Thread-191 calculating square of 26
+Thread-190 calculating square of 53
+Thread-168 calculating square of 30
+Thread-325 calculating square of 35
+Thread-143 calculating square of 41
+Thread-297 calculating square of 97
+Thread-276 calculating square of 17
+Thread-263 calculating square of 65
+Thread-256 calculating square of 39
+Thread-179 calculating square of 95
+Thread-162 calculating square of 31
+Thread-205 calculating square of 94
+Thread-247 calculating square of 92
+Thread-163 calculating square of 44
+Thread-188 calculating square of 7
+Thread-201 calculating square of 69
+Thread-264 calculating square of 6
+Thread-172 calculating square of 92
+Thread-211 calculating square of 33
+Thread-170 calculating square of 19
+Thread-271 calculating square of 29
+Thread-260 calculating square of 3
+Thread-138 calculating square of 56
+Thread-280 calculating square of 85
+Thread-225 calculating square of 26
+Thread-274 calculating square of 27
+Result from Thread-138: 3136
+Result from Thread-139: 10000
+Result from Thread-140: 5929
+Result from Thread-141: 5776
+Result from Thread-142: 9409
+Result from Thread-143: 1681
+Result from Thread-144: 8100
+Result from Thread-145: 5329
+Result from Thread-146: 49
+Result from Thread-147: 3364
+Result from Thread-148: 6724
+Result from Thread-149: 400
+Result from Thread-150: 1849
+Result from Thread-151: 7225
+Result from Thread-152: 7056
+Result from Thread-153: 3481
+Result from Thread-154: 256
+Thread-203 calculating square of 10
+Thread-183 calculating square of 16
+Thread-237 calculating square of 45
+Thread-272 calculating square of 70
+Thread-236 calculating square of 38
+Thread-324 calculating square of 68
+Thread-189 calculating square of 9
+Thread-180 calculating square of 87
+Thread-215 calculating square of 50
+Thread-318 calculating square of 10
+Thread-155 calculating square of 47
+Result from Thread-155: 2209
+Result from Thread-156: 484
+Result from Thread-157: 10000
+Result from Thread-158: 144
+Result from Thread-159: 9409
+Result from Thread-160: 7056
+Result from Thread-161: 7396
+Result from Thread-162: 961
+Result from Thread-163: 1936
+Result from Thread-164: 4900
+Result from Thread-165: 1296
+Result from Thread-166: 121
+Result from Thread-167: 2809
+Result from Thread-168: 900
+Result from Thread-169: 2809
+Result from Thread-170: 361
+Result from Thread-171: 7225
+Result from Thread-172: 8464
+Result from Thread-173: 4489
+Result from Thread-174: 9025
+Result from Thread-175: 1296
+Result from Thread-176: 3481
+Result from Thread-177: 4900
+Result from Thread-178: 100
+Result from Thread-179: 9025
+Result from Thread-180: 7569
+Thread-235 calculating square of 72
+Thread-306 calculating square of 78
+Thread-285 calculating square of 47
+Thread-234 calculating square of 39
+Thread-292 calculating square of 35
+Thread-223 calculating square of 97
+Thread-208 calculating square of 69
+Thread-186 calculating square of 53
+Thread-309 calculating square of 55
+Thread-182 calculating square of 91
+Thread-250 calculating square of 78
+Thread-277 calculating square of 23
+Thread-258 calculating square of 88
+Thread-231 calculating square of 78
+Thread-197 calculating square of 100
+Thread-305 calculating square of 88
+Thread-278 calculating square of 65
+Thread-240 calculating square of 33
+Thread-283 calculating square of 16
+Thread-254 calculating square of 76
+Thread-270 calculating square of 83
+Thread-326 calculating square of 33
+Thread-286 calculating square of 53
+Thread-320 calculating square of 42
+Thread-343 calculating square of 8
+Thread-252 calculating square of 97
+Thread-243 calculating square of 5
+Thread-209 calculating square of 56
+Thread-206 calculating square of 10
+Thread-196 calculating square of 98
+Thread-217 calculating square of 40
+Thread-181 calculating square of 26
+Result from Thread-181: 676
+Result from Thread-182: 8281
+Result from Thread-183: 256
+Thread-268 calculating square of 81
+Thread-185 calculating square of 70
+Thread-194 calculating square of 71
+Thread-244 calculating square of 8
+Thread-282 calculating square of 65
+Thread-316 calculating square of 55
+Thread-299 calculating square of 41
+Thread-230 calculating square of 63
+Thread-303 calculating square of 63
+Thread-287 calculating square of 91
+Thread-335 calculating square of 52
+Thread-229 calculating square of 47
+Thread-304 calculating square of 18
+Thread-317 calculating square of 38
+Thread-187 calculating square of 73
+Thread-246 calculating square of 23
+Thread-239 calculating square of 4
+Thread-281 calculating square of 7
+Thread-308 calculating square of 54
+Thread-291 calculating square of 15
+Thread-295 calculating square of 9
+Thread-248 calculating square of 18
+Thread-266 calculating square of 4
+Thread-226 calculating square of 24
+Thread-311 calculating square of 27
+Thread-310 calculating square of 50
+Thread-267 calculating square of 33
+Thread-313 calculating square of 27
+Thread-207 calculating square of 23
+Thread-346 calculating square of 36
+Thread-321 calculating square of 53
+Thread-338 calculating square of 93
+Thread-251 calculating square of 66
+Thread-296 calculating square of 9
+Thread-204 calculating square of 27
+Thread-220 calculating square of 38
+Thread-322 calculating square of 35
+Thread-279 calculating square of 19
+Thread-249 calculating square of 28
+Thread-330 calculating square of 26
+Thread-227 calculating square of 41
+Thread-294 calculating square of 99
+Thread-349 calculating square of 12
+Thread-199 calculating square of 42
+Thread-312 calculating square of 82
+Thread-289 calculating square of 21
+Thread-192 calculating square of 7
+Thread-307 calculating square of 20
+Thread-218 calculating square of 13
+Thread-195 calculating square of 1
+Thread-331 calculating square of 98
+Thread-216 calculating square of 63
+Thread-221 calculating square of 15
+Thread-213 calculating square of 73
+Thread-184 calculating square of 95
+Result from Thread-184: 9025
+Result from Thread-185: 4900
+Result from Thread-186: 2809
+Result from Thread-187: 5329
+Result from Thread-188: 49
+Result from Thread-189: 81
+Result from Thread-190: 2809
+Result from Thread-191: 676
+Result from Thread-192: 49
+Result from Thread-193: 100
+Result from Thread-194: 5041
+Result from Thread-195: 1
+Result from Thread-196: 9604
+Result from Thread-197: 10000
+Result from Thread-198: 5625
+Result from Thread-199: 1764
+Result from Thread-200: 4624
+Result from Thread-201: 4761
+Thread-242 calculating square of 11
+Thread-255 calculating square of 88
+Thread-339 calculating square of 71
+Thread-332 calculating square of 52
+Thread-224 calculating square of 70
+Thread-257 calculating square of 69
+Thread-214 calculating square of 74
+Thread-262 calculating square of 61
+Thread-238 calculating square of 81
+Thread-300 calculating square of 32
+Thread-333 calculating square of 28
+Thread-259 calculating square of 80
+Thread-334 calculating square of 78
+Thread-275 calculating square of 70
+Thread-202 calculating square of 60
+Result from Thread-202: 3600
+Result from Thread-203: 100
+Result from Thread-204: 729
+Result from Thread-205: 8836
+Result from Thread-206: 100
+Result from Thread-207: 529
+Result from Thread-208: 4761
+Result from Thread-209: 3136
+Result from Thread-210: 7056
+Result from Thread-211: 1089
+Result from Thread-212: 9409
+Result from Thread-213: 5329
+Result from Thread-214: 5476
+Result from Thread-215: 2500
+Result from Thread-216: 3969
+Result from Thread-217: 1600
+Result from Thread-218: 169
+Result from Thread-219: 1156
+Result from Thread-220: 1444
+Result from Thread-221: 225
+Result from Thread-222: 4096
+Result from Thread-223: 9409
+Result from Thread-224: 4900
+Result from Thread-225: 676
+Result from Thread-226: 576
+Result from Thread-227: 1681
+Result from Thread-228: 3969
+Result from Thread-229: 2209
+Result from Thread-230: 3969
+Result from Thread-231: 6084
+Result from Thread-232: 2500
+Result from Thread-233: 6889
+Result from Thread-234: 1521
+Result from Thread-235: 5184
+Result from Thread-236: 1444
+Result from Thread-237: 2025
+Result from Thread-238: 6561
+Result from Thread-239: 16
+Result from Thread-240: 1089
+Result from Thread-241: 2401
+Result from Thread-242: 121
+Result from Thread-243: 25
+Thread-269 calculating square of 41
+Result from Thread-244: 64
+Result from Thread-245: 2704
+Result from Thread-246: 529
+Result from Thread-247: 8464
+Result from Thread-248: 324
+Result from Thread-249: 784
+Result from Thread-250: 6084
+Result from Thread-251: 4356
+Result from Thread-252: 9409
+Result from Thread-253: 3600
+Result from Thread-254: 5776
+Result from Thread-255: 7744
+Result from Thread-256: 1521
+Result from Thread-257: 4761
+Result from Thread-258: 7744
+Result from Thread-259: 6400
+Result from Thread-260: 9
+Result from Thread-261: 3600
+Result from Thread-262: 3721
+Result from Thread-263: 4225
+Result from Thread-264: 36
+Result from Thread-265: 484
+Result from Thread-266: 16
+Result from Thread-267: 1089
+Result from Thread-268: 6561
+Result from Thread-269: 1681
+Result from Thread-270: 6889
+Result from Thread-271: 841
+Result from Thread-272: 4900
+Result from Thread-273: 8836
+Result from Thread-274: 729
+Result from Thread-275: 4900
+Result from Thread-276: 289
+Result from Thread-277: 529
+Result from Thread-278: 4225
+Result from Thread-279: 361
+Result from Thread-280: 7225
+Result from Thread-281: 49
+Result from Thread-282: 4225
+Result from Thread-283: 256
+Result from Thread-284: 625
+Result from Thread-285: 2209
+Result from Thread-286: 2809
+Result from Thread-287: 8281
+Result from Thread-288: 9025
+Result from Thread-289: 441
+Result from Thread-290: 484
+Result from Thread-291: 225
+Result from Thread-292: 1225
+Thread-323 calculating square of 82
+Thread-345 calculating square of 78
+Thread-301 calculating square of 22
+Thread-298 calculating square of 89
+Thread-348 calculating square of 17
+Thread-328 calculating square of 86
+Thread-293 calculating square of 27
+Result from Thread-293: 729
+Result from Thread-294: 9801
+Result from Thread-295: 81
+Result from Thread-296: 81
+Result from Thread-297: 9409
+Result from Thread-298: 7921
+Result from Thread-299: 1681
+Result from Thread-300: 1024
+Result from Thread-301: 484
+Result from Thread-302: 2209
+Result from Thread-303: 3969
+Result from Thread-304: 324
+Result from Thread-305: 7744
+Result from Thread-306: 6084
+Result from Thread-307: 400
+Result from Thread-308: 2916
+Result from Thread-309: 3025
+Result from Thread-310: 2500
+Result from Thread-311: 729
+Result from Thread-312: 6724
+Result from Thread-313: 729
+Result from Thread-314: 3481
+Result from Thread-315: 9216
+Result from Thread-316: 3025
+Result from Thread-317: 1444
+Result from Thread-318: 100
+Thread-336 calculating square of 71
+Thread-341 calculating square of 73
+Thread-319 calculating square of 30
+Result from Thread-319: 900
+Result from Thread-320: 1764
+Result from Thread-321: 2809
+Result from Thread-322: 1225
+Result from Thread-323: 6724
+Result from Thread-324: 4624
+Result from Thread-325: 1225
+Result from Thread-326: 1089
+Result from Thread-327: 3721
+Result from Thread-328: 7396
+Result from Thread-329: 8281
+Result from Thread-330: 676
+Result from Thread-331: 9604
+Result from Thread-332: 2704
+Result from Thread-333: 784
+Result from Thread-334: 6084
+Result from Thread-335: 2704
+Result from Thread-336: 5041
+Thread-344 calculating square of 69
+Thread-340 calculating square of 28
+Thread-337 calculating square of 58
+Result from Thread-337: 3364
+Result from Thread-338: 8649
+Result from Thread-339: 5041
+Result from Thread-340: 784
+Result from Thread-341: 5329
+Thread-347 calculating square of 34
+Thread-342 calculating square of 4
+Result from Thread-342: 16
+Result from Thread-343: 64
+Result from Thread-344: 4761
+Result from Thread-345: 6084
+Result from Thread-346: 1296
+Result from Thread-347: 1156
+Result from Thread-348: 289
+Result from Thread-349: 144
+
+Process finished with exit code 0
